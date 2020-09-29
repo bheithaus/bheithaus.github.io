@@ -1,18 +1,25 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Financial Dashboard
+subtitle: Customizable Interactive Wealth Management Tool
+image: assets/img/portfolio/financial-dashboard/full.gif
+alt: Financial Dashboard
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Financial Dashboard
+  subtitle: Interactive Wealth Management Tool
+  thumbnail: assets/img/portfolio/financial-dashboard/thumb.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+I led development on the front-end of this customizable wealth management dashboard using AngularJS and d3.js.  Our client used our teams work to release a white-label dashboard service to their customers.
+
+**Tech**
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- d3.js
+- AngularJS
+- Ruby on Rails
 
+- Category: Data Vizualization
+
+
+[Here is a Fascinating Tidbit!](https://www.lipsum.com/)

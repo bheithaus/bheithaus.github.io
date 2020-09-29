@@ -1,18 +1,30 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Smoky Room
+subtitle: 3D Visualization of Particulate Matter Data From a Fire
+image: assets/img/portfolio/smoke-viz/full.gif
+alt: Smoky RoomGIF
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Smoky Room
+  subtitle: Experimental Data Representation
+  thumbnail: assets/img/portfolio/smoke-viz/thumb.jpg
+
+demoURL: http://aprovecho-smoky-room.herokuapp.com
+codeURL: https://github.com/bheithaus/smokyRoom 
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+I built a 3D visualization for an NGO working on clean burning cookstove technology to make help people in the developing world.  This interactive application helps the researchers and their colleagues better understand smoke particulate data that was collected inside of a smoky room during experiments.
+A user can select which smoke sensor to monitor PM readings from, as the timeline moves at variable speed.
+
+**Tech**
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Three.js
+- React
+- MongoDB
+- Next.js
+- Express
+- AWS - Lambda Microservice & S3 
+
+- Category: Data Vizualization
 
