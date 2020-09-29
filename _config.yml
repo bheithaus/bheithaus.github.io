@@ -18,7 +18,7 @@ url    : "http://bheithaus.github.io" # the base hostname & protocol for your si
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Brian Heithaus - Software Engineering
-email      : mjvpkrvl #this is also the email contact forms will go to
+email      : mjvpkrvl #FormSpree form ID
 description: "Portfolio"
 author     : Brian Heithaus
 # logo:     #optional, defaults to site title
